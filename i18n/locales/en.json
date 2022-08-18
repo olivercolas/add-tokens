@@ -1,0 +1,47 @@
+{
+  "lang": {
+    "iso": "en-US",
+    "name": "English"
+  },
+  "navbar": {
+    "logo": "Add tokens to {metamask}",
+    "translations": "Translations",
+    "select_network": "Select a network",
+    "connect": "Connect",
+    "connect_wallet": "Connect a wallet",
+    "connected_wallet": "Wallet",
+    "logout": "Logout",
+    "donate": "Donate"
+  },
+  "toast": {
+    "close": "Close",
+    "success": {
+      "networkSwitch": "Switched network to {network}"
+    },
+    "errorMessages": {
+      "userRejected": "You have rejected to connect your wallet.",
+      "connectWallet": "You must connect a wallet to perform this action",
+      "unableToAddToken": "Unable to add the selected token to your wallet, please try again later.",
+      "unexpectedError": "An unexpected error has occurred. Try again later."
+    }
+  },
+  "pages": {
+    "home": {
+      "table": {
+        "search": "Search",
+        "headers": {
+          "name": "Name",
+          "symbol": "Symbol",
+          "address": "Address"
+        },
+        "rows": {
+          "action": "Add to"
+        },
+        "wrongNetwork": {
+          "title": "We've detected you're not on the right network",
+          "switchTo": "Switch to"
+        }
+      }
+    }
+  }
+}

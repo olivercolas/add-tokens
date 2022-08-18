@@ -1,0 +1,47 @@
+{
+  "lang": {
+    "iso": "fr-FR",
+    "name": "Français"
+  },
+  "navbar": {
+    "logo": "Ajoutés des tokens à {metamask}",
+    "translations": "Traductions",
+    "select_network": "Selectionnez un réseaux",
+    "connect": "Se connecter",
+    "connect_wallet": "Connecter un wallet",
+    "connected_wallet": "Wallet",
+    "logout": "Déconnecter",
+    "donate": "Faites un don"
+  },
+  "toast": {
+    "close": "Fermer",
+    "success": {
+      "networkSwitch": "Réseau mis à jour à {network}"
+    },
+    "errorMessages": {
+      "userRejected": "Vous avez refuser de connecter votre wallet.",
+      "connectWallet": "Vous devez connecter un wallet pour completer cette action",
+      "unableToAddToken": "Impossible d'ajouter le token sélectionner à votre wallet. Veuillez essayer plus tard.",
+      "unexpectedError": "Une erreur anormale s'est produite. Veuillez essayer plus tard."
+    }
+  },
+  "pages": {
+    "home": {
+      "table": {
+        "search": "Rechercher",
+        "headers": {
+          "name": "Nom",
+          "symbol": "Symbole",
+          "address": "Addresse"
+        },
+        "rows": {
+          "action": "Ajouté à"
+        },
+        "wrongNetwork": {
+          "title": "Vous êtes sur un autre réseau",
+          "switchTo": "Aller sur"
+        }
+      }
+    }
+  }
+}
