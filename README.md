@@ -13,6 +13,6 @@ and this [uniswap](https://wispy-bird-88a7.uniswap.workers.dev/?url=http://token
 
 ## Why?
 
-At some point I decided to try bridging my assets to Ethereum, I found the process extremely stressful as I wasn't sure what contract address it was bridged to.
+At some point I decided to try bridging my assets to Ethereum, I found the process extremely stressful as I wasn't sure what contract address my funds were bridged to.
 
 I also found myself needing to re-add tokens more often than I thought I would, this tool helps add my favorite tokens quickly and painlessly.
